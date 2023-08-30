@@ -1,0 +1,15 @@
+C:\Users\Brian\source\repos\Bases_POO\bin\Debug\net6.0\Bases_POO.exe
+C:\Users\Brian\source\repos\Bases_POO\bin\Debug\net6.0\Bases_POO.deps.json
+C:\Users\Brian\source\repos\Bases_POO\bin\Debug\net6.0\Bases_POO.runtimeconfig.json
+C:\Users\Brian\source\repos\Bases_POO\bin\Debug\net6.0\Bases_POO.dll
+C:\Users\Brian\source\repos\Bases_POO\bin\Debug\net6.0\Bases_POO.pdb
+C:\Users\Brian\source\repos\Bases_POO\obj\Debug\net6.0\Bases_POO.csproj.AssemblyReference.cache
+C:\Users\Brian\source\repos\Bases_POO\obj\Debug\net6.0\Bases_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brian\source\repos\Bases_POO\obj\Debug\net6.0\Bases_POO.AssemblyInfoInputs.cache
+C:\Users\Brian\source\repos\Bases_POO\obj\Debug\net6.0\Bases_POO.AssemblyInfo.cs
+C:\Users\Brian\source\repos\Bases_POO\obj\Debug\net6.0\Bases_POO.csproj.CoreCompileInputs.cache
+C:\Users\Brian\source\repos\Bases_POO\obj\Debug\net6.0\Bases_POO.dll
+C:\Users\Brian\source\repos\Bases_POO\obj\Debug\net6.0\refint\Bases_POO.dll
+C:\Users\Brian\source\repos\Bases_POO\obj\Debug\net6.0\Bases_POO.pdb
+C:\Users\Brian\source\repos\Bases_POO\obj\Debug\net6.0\Bases_POO.genruntimeconfig.cache
+C:\Users\Brian\source\repos\Bases_POO\obj\Debug\net6.0\ref\Bases_POO.dll
