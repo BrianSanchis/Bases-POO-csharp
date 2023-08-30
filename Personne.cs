@@ -73,7 +73,7 @@ namespace Bases_POO
         }
         public virtual void show()
         {
-            Console.WriteLine("Mon nom est : " + name + "\t" + "Et mon prénom est : " + this.surname);
+            Console.WriteLine("Id : " + id + "\t" + "Nom : " + name + "\t" + "Prénom : " + this.surname + "\t" + "Age : " + getAge());
         }
     }
 }
