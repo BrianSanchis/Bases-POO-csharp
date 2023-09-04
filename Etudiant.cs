@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Bases_POO
 {
-    internal class Etudiant
+    public class Etudiant
     {
+
     }
 }

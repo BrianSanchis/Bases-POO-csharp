@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Brian\\.nuget\\packages\\": {}
+    "C:\\Users\\sanch\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Brian\\source\\repos\\Bases_POO\\Bases_POO.csproj",
+      "projectUniqueName": "C:\\Users\\sanch\\Source\\Repos\\Bases-POO-csharp\\Bases_POO.csproj",
       "projectName": "Bases_POO",
-      "projectPath": "C:\\Users\\Brian\\source\\repos\\Bases_POO\\Bases_POO.csproj",
-      "packagesPath": "C:\\Users\\Brian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Brian\\source\\repos\\Bases_POO\\obj\\",
+      "projectPath": "C:\\Users\\sanch\\Source\\Repos\\Bases-POO-csharp\\Bases_POO.csproj",
+      "packagesPath": "C:\\Users\\sanch\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sanch\\Source\\Repos\\Bases-POO-csharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Brian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sanch\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
