@@ -6,7 +6,28 @@ using System.Threading.Tasks;
 
 namespace Bases_POO
 {
-    internal class Matiere
+    public class Matiere
     {
+        private string libelle;
+        private float nbHeure;
+
+        public Matiere(string libelle, float nbHeure)
+        {
+            this.libelle = libelle;
+            this.nbHeure = nbHeure;
+        }
+        public string Libelle
+        {
+            get { return libelle; }
+            set { libelle = value; }
+        }
+        public float setNbHeure()
+        {
+            return nbHeure;
+        }
+        public void setNbHeure(float nbHeure)
+        {
+            this.nbHeure = nbHeure;
+        }
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sanch\\Source\\Repos\\Bases-POO-csharp\\Bases_POO.csproj": {}
+    "C:\\Users\\sanch\\source\\repos\\Bases-POO-csharp\\Bases_POO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sanch\\Source\\Repos\\Bases-POO-csharp\\Bases_POO.csproj": {
+    "C:\\Users\\sanch\\source\\repos\\Bases-POO-csharp\\Bases_POO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sanch\\Source\\Repos\\Bases-POO-csharp\\Bases_POO.csproj",
+        "projectUniqueName": "C:\\Users\\sanch\\source\\repos\\Bases-POO-csharp\\Bases_POO.csproj",
         "projectName": "Bases_POO",
-        "projectPath": "C:\\Users\\sanch\\Source\\Repos\\Bases-POO-csharp\\Bases_POO.csproj",
+        "projectPath": "C:\\Users\\sanch\\source\\repos\\Bases-POO-csharp\\Bases_POO.csproj",
         "packagesPath": "C:\\Users\\sanch\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sanch\\Source\\Repos\\Bases-POO-csharp\\obj\\",
+        "outputPath": "C:\\Users\\sanch\\source\\repos\\Bases-POO-csharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sanch\\AppData\\Roaming\\NuGet\\NuGet.Config",
