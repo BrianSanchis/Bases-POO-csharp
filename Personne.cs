@@ -71,6 +71,7 @@ namespace Bases_POO
             }
             return age;
         }
+        //Virtual car c'est du polymorphisme ad-oc
         public virtual void show()
         {
             Console.WriteLine("Id : " + id + "\t" + "Nom : " + name + "\t" + "Prénom : " + this.surname + "\t" + "Age : " + getAge());
