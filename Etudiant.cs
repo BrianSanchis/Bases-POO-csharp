@@ -17,6 +17,7 @@ namespace Bases_POO
         }
         public Etudiant(int id, string name, string surname, DateTime birthDate, string numEtudiant, Section section) : base(id, name ,surname, birthDate)
         {
+            numEtudiant = studentId;
             this.section = section;
         }
         public void setSection(Section SIO2)

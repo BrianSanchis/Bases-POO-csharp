@@ -8,19 +8,27 @@ namespace Bases_POO
 {
     public class Section
     {
-        private string name;
+        private string libelle;
+        private List<Matiere> matieres = new List<Matiere>(); 
 
-        public Section(string name)
+        public Section(string libelle)
         {
-            this.name = name;
+            this.libelle = libelle;
         }
-        public string getName()
+        public string getLibelle()
         {
-            return name;
+            return libelle;
         }
-        public void setName(string name)
+        public void setLibelle(string libelle)
         {
-            this.name=name;
+            this.libelle=libelle;
+        }
+        public void AddMatiere(Matiere matiere)
+        {
+            if(matiere != null)
+            {
+                matieres.Add(matiere);
+            }
         }
     }
 }
